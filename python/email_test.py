@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 
 msg = 'Hello World'
 me = 'devuser@stromcore.tk'
-you = 'batteryfuck@mailinator.com'
+you = 'test@mailinator.com'
 email = MIMEText(msg)
 email['Subject'] = "Testing, testing"
 email['From'] = me 
