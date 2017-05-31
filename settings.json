@@ -1,0 +1,15 @@
+{
+   "rabbitmq": {
+      "host": "localhost",
+      "port": "5672",
+      "vhost": "battery",
+      "user": "admin",
+      "password": "password"
+   },
+   "sql": {
+      "host": "localhost",
+      "database": "battery_diag",
+      "user": "root",
+      "password": "password"
+   }
+}
